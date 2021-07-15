@@ -1,0 +1,10 @@
+####{BSB GENERATED: NO EDIT
+FLG -ppx "D:\Work Projects\rescript-test\node_modules\bs-platform\win32\bsc.exe -as-ppx -bs-jsx 3"
+S D:\Work Projects\rescript-test\node_modules\bs-platform\lib\ocaml
+B D:\Work Projects\rescript-test\node_modules\bs-platform\lib\ocaml
+FLG -w +a-4-9-20-40-41-42-50-61-102
+S D:\Work Projects\rescript-test\node_modules\@rescript\react\lib\ocaml
+B D:\Work Projects\rescript-test\node_modules\@rescript\react\lib\ocaml
+S src
+B lib\bs\src
+####BSB GENERATED: NO EDIT}
